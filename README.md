@@ -20,8 +20,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Site]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/flexbox-four-card-feature-section-Loy2CKpTHW)
+- Live Site URL: [Site](https://four-card-feature-section-master-brown.vercel.app/)
 
 ## My process
 
